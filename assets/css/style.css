@@ -195,6 +195,8 @@ body {
   text-align: right;
   color: #333;
   font-weight: bold;
+  opacity: 0;
+  transition: 1s width ;
 }
 
 .resume {
